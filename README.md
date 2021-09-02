@@ -8,20 +8,28 @@ Solusi kami menggunakan Laravel (PHP Framework for Web Artisans)
 Laravel adalah kerangka kerja aplikasi web dengan sintaks yang ekspresif dan elegan. 
 
 Customer Mobile App Features
-1. Multiple Service Providers with their Management System
-2 .Classified businesses & Services.
-3. Geolocation & Google Maps address picker.
-4. Live chat between customers and providers
-5. Light or Dark Theme Support.
-6. Easy to Brand & Customize.
-7. Multiple Payments Gateway Integrations.
-8. Multi-Languages Support (including LTR & RTL).
-9. Multi-Currency Support.
-10.Discounts & Coupons
-11.Easy Login & Authentication
-12.Managing profile settings
-13.Intuitive & User-Friendly Animations
-14.Help & Support for customer and service providers
-15.Favorites, Wishlist Services
-16.Tracking and Filter Bookings
+1. Beberapa Penyedia Layanan dengan Sistem Manajemen
+2. Bisnis & Layanan Rahasia.
+3. Geolokasi & pemilih alamat Google Maps.
+4. Obrolan langsung antara pelanggan dan penyedia
+5. Dukungan Tema Terang atau Gelap.
+6. Mudah & untuk Menyesuaikan.
+7. Beberapa Integrasi Gateway Pembayaran.
+8. Dukungan Multi-Bahasa (termasuk LTR & RTL).
+9. Dukungan Multi-Mata Uang. 
+10.Diskon & Kupon 
+11.Login & Otentikasi Mudah 
+12.Mengelola pengaturan profil 
+13.Animasi Intuitif & Ramah Pengguna 
+14.Bantuan & Dukungan untuk pelanggan dan penyedia layanan 
+15.Favorit, Layanan Daftar Keinginan 
+16.Pelacakan dan Filter Pemesanan
 
+Admin Panel Features
+
+1. Dasbor dan statistik admin.
+2. Multi Peran dan Izin (Admin, Penyedia Layanan, Pelanggan).
+3. Gerbang Pembayaran Paypal.
+4. Panel Admin multi-bahasa
+5. Otentikasi media sosial.
+6. Media & Manajer File Terintegrasi
